@@ -1,2 +1,3 @@
 # Remote
-git add -u "/gci/README.md"
+git remote add origin https:/gci/README.md
+git push -u origin gkakkar6
